@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TabsWithSwipe</string>
+    <string name="action_settings">Settings</string>
+    <color name="myColor">#eeeeee</color>
+    <string name="miles">to Miles</string>
+    <string name="kmh">to km/h</string>
+    <string name="calc">Calculate</string>
+    <string name="name">GeoQuiz</string>
+    <string name="question_text">Constantinople is the largest city in Turkey.</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="get">Get Weather</string>
+	<string name="select">Choose a city</string>
+    <string-array name="city_array">
+        <item>Charlottesville</item>
+        <item>Richmond</item>
+        <item>Philadelphia</item>
+    </string-array>
+    
+</resources>
